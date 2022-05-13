@@ -1,16 +1,21 @@
-### Hi there 👋
+## Contact
 
-<!--
-**Kostin-ilya/Kostin-ilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* Address: Moscow
+* E-mail: lord-ilja@yandex.ru
+* GitHub: https://github.com/Kostin-ilya
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+My goal is to become Junior JavaScript Developer. I desire to work and study new technologies, approaches and best practices.
+I am ambitious, reliable, proactive and results oriented person who likes people and teamworking. But most of all I like coding and solving difficulties. 
+I don't have much experience in programming but I have ability to learn fast and I try to practice coding as much as possible.
+## My skills
+* ![CodeWars](https://www.codewars.com/users/KostinIlia/badges/large)
+* HTML5
+* CSS3
+* JavaScript
+* React
+* Bootstrap
+* Webpack
+* Gulp
+* GIT
+* Windows
