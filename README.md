@@ -1,10 +1,9 @@
 Hello, my name is Ilia!
-Since 2014, I have been working in companies related to technology and technology
-Since July 2021 I started to get acquainted with programming in the direction of front-end development.
+Since 2014, I have been working in companies related to technology.I also worked for a long time in the sales department at large technology-related companies
+Since July 2021 I started to get acquainted with programming in the direction of front-end development.I have experience in creating web applications and adaptive websites. I like working with application logic.
+I am looking for a job in Turkey in an IT-company front-end developer in JavaScript/React.I'll consider various options.
 
-In September 2022 I went on a trip to Turkey. In connection with the bad latest news from Russia, I am looking for a job in Turkey in an IT-company front-end developer in JavaScript / React. There are pet-projects on Github. I'll consider various options.
-
-- Current location: Istanbul/Antalya
+- Current location: Izmir/Türkiye
 - Format of work: Office/Remote work;
 - Position: Front-end developer;
 - Employment: Full-time;
@@ -21,7 +20,7 @@ Hard skills:
 - Git
 
 Soft skills:
-- Russıan(natıve)/English A2;
+- English A2/Russıan(natıve);
 - Able to think logically and learn quickly;
 - Can show initiative and defend my opinion without fanaticism;
 - Calmly accept criticism, communicate constructively even in conflict situations;
