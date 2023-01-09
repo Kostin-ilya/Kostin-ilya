@@ -11,6 +11,7 @@ I am looking for a job in Turkey in an IT-company front-end developer in JavaScr
 
 Hard skills:
 - JavaScript (ES6 / ES6+) 
+- TypeScript
 - React 
 - Redux/Redux - toolkit
 - React-router (v5/v6)
