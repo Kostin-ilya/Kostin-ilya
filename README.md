@@ -10,15 +10,16 @@ I am looking for a job in Turkey in an IT-company front-end developer in JavaScr
 - Salary expectations: from 700$;
 
 Hard skills:
-- JavaScript (ES6 / ES6+) 
+- JavaScript 
 - TypeScript
 - React 
 - Redux/Redux - toolkit
-- React-router (v5/v6)
-- HTML, CSS (flex, grid), SCSS, BEM, CSS modules
-- REST API
-- Webpack
+- React-router, axios
+- HTML, CSS (flex, grid), SCSS, BEM
 - Git
+- Webpack
+- REST API
+
 
 Soft skills:
 - English A2/Russıan(natıve);
