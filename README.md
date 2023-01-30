@@ -15,6 +15,7 @@ Hard skills:
 - React 
 - Redux/Redux - toolkit
 - React-router, axios
+- Formik, React-hook-form
 - HTML, CSS (flex, grid), SCSS, BEM
 - Git
 - Webpack
