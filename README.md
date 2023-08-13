@@ -1,6 +1,8 @@
 Hello, my name is Ilia!
+I am  a highly motivated and results-driven React JS Developer with 2 years of experience in web development on freelance. I specialize in React JS and have a proven track record of delivering high-quality, user-friendly, and cost-effective solutions to clients. My technical expertise includes React, Redux, JavaScript, TypeScript, HTML, CSS.
 Since 2014, I have been working in companies related to technology.I also worked for a long time in the sales department at large technology-related companies
-Since July 2021 I started to get acquainted with programming in the direction of front-end development.I have experience in creating web applications and adaptive websites. I like working with application logic.
+Starting in 2021, I have completely switched to working as a Front-end developer.I have experience in creating web applications and adaptive websites. I like working with application logic.
+
 I am looking for a job in Turkey in an IT-company front-end developer in JavaScript/React.
 
 - Current location: Izmir/Türkiye
