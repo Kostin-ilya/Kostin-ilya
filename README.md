@@ -1,16 +1,13 @@
-Hello, my name is Ilia!
-I am  a highly motivated and results-driven React JS Developer with 2 years of experience in web development on freelance. I specialize in React JS and have a proven track record of delivering high-quality, user-friendly, and cost-effective solutions to clients. My technical expertise includes React, Redux, JavaScript, TypeScript, HTML, CSS.
-Since 2014, I have been working in companies related to technology.I also worked for a long time in the sales department at large technology-related companies
-Starting in 2021, I have completely switched to working as a Front-end developer.I have experience in creating web applications and adaptive websites. I like working with application logic.
-
-I am looking for a job in Turkey in an IT-company front-end developer in JavaScript/React.
+ Hello, my name is Ilia!
+I am a highly motivated and result-oriented React JS developer with 2 years of experience in web development. My technical expertise includes React, Redux, JavaScript, TypeScript, HTML, CSS.
+I have been working in technology related companies since 2014 and have also worked in sales for a long time.
+Since 2021, I have fully transitioned to working as a Front-end developer. I have experience building web applications and responsive websites. I enjoy working with application logic.
 
 - Current location: Izmir/Türkiye
 - Format of work: Office/Remote work;
 - Position: Front-end developer;
 - Employment: Full-time;
-- Salary expectations: from 700$;
-
+  
 Hard skills:
 - JavaScript (ES5, ES6+)
 - TypeScript
@@ -26,13 +23,13 @@ Hard skills:
 - Webpack
 - REST API
 
-
 Soft skills:
 - English B1/Russıan(natıve);
 - Able to think logically and learn quickly;
-- Can show initiative and defend my opinion without fanaticism;
-- Calmly accept criticism, communicate constructively even in conflict situations;
-- Ready to fully integrate into the project, pushing the rest of the cases into the background
+- I can take initiative and defend my opinion without fanaticism 
+- I calmly accept criticism, communicate constructively in various situations
+- I adapt quickly in a new team
+- I have a positive outlook on life
 
 Contacts:
 - Telegram: @mrku39
