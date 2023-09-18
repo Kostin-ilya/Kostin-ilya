@@ -1,8 +1,8 @@
 Hello, my name is Ilia!
-I am a highly motivated and result-oriented React JS developer with 2 years of experience in web development. My technical expertise includes React, Redux, JavaScript, TypeScript, HTML, CSS.
-I have been working in technology related companies since 2014 and have also worked in sales for a long time . Since 2021, I have fully transitioned to working  as a Front-end developer.
-I have experience building web applications and responsive websites. I enjoy working with application logic. Examples of my code can be found on my GitHub.
-I strive to cooperate with professional colleagues, where I can contribute and support the team in achieving common goals.
+I am a highly motivated and result-oriented React JS developer with 2 years of experience in web development. My technical expertise includes React, Redux, JavaScript, TypeScript, HTML, CSS.  
+I have been working in technology related companies since 2014 and have also worked in sales for a long time . Since 2021, I have fully transitioned to working  as a Front-end developer.  
+I have experience building web applications and responsive websites. I enjoy working with application logic.  
+I strive to cooperate with professional colleagues, where I can contribute and support the team in achieving common goals.  
 
 - Current location: Izmir/Türkiye
 - Format of work: Office/Remote work;
