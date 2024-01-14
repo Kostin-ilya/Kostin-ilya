@@ -13,15 +13,15 @@ Hard skills:
 - JavaScript (ES5, ES6+)
 - TypeScript
 - React 
-- Redux/Redux - Toolkit
+- Redux/Redux-Toolkit
 - React-router, axios
-- CSS Modules, Styled Components
-- Formik, React-hook-form
 - HTML5
 - CSS3(flex, grid)
+- CSS Modules, Styled Components
 - SCSS, BEM
+- Formik, React-hook-form
 - Git
-- Webpack
+- Webpack/ Vite 
 - REST API
 
 Soft skills:
