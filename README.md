@@ -4,9 +4,9 @@ I have been working in technology related companies since 2014 and have also wor
 I have experience building web applications and responsive websites. I enjoy working with application logic.  
 I strive to cooperate with professional colleagues, where I can contribute and support the team in achieving common goals.  
 
-- Current location: Izmir/Türkiye
+- Current location: Moscow/Russia;
 - Format of work: Office/Remote work;
-- Position: Front-end developer(React);
+- Position: Front-end developer;
 - Employment: Full-time/Part-time/;
   
 Hard skills:
