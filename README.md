@@ -56,11 +56,4 @@ To become part of a team of professionals where I can enhance my skills, tackle 
 - **LinkedIn**: [linkedin.com/in/ilia-kostin-0965a0244](https://www.linkedin.com/in/ilia-kostin-0965a0244/)  
 
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kostin-ILya&layout=compact&theme=radical)  
  ![Profile Views](https://komarev.com/ghpvc/?username=Kostin-ILya&color=brightgreen)
-
-
-  
-
-
-
